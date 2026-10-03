@@ -1,5 +1,5 @@
-# Crime-Analysis
-Crime analysis plays a crucial role in shaping public safety policies. This project aims to provide a comprehensive analysis of crime trends using key metrics such as crime type, weapon used, victim demographics, time and location of occurrence, police deployment and case resolution status. By leveraging BI Tools interactive dashboards.
+# Crime Data Analysis
+Crime Data Analysis plays a crucial role in shaping public safety policies. This project aims to provide a comprehensive analysis of crime trends using key metrics such as crime type, weapon used, victim demographics, time and location of occurrence, police deployment and case resolution status. By leveraging BI Tools interactive dashboards.
 # Aim
 The goal is to provide a comprehensive analysis of crime trends using Power BI and key metrics such as crime type, weapon used, victim demographics, police deployment, case resolution status, time and location of occurrence.
 1) Crime Trends Analysis: Identify patterns in crime occurrence based on date, time, and location.
